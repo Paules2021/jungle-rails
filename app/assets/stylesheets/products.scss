@@ -122,4 +122,18 @@ main section.products-show {
   text-align: center;
 }
 
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav .login-info {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.form-style { 
+  display: block;
+  margin: 5px 0;
+}
 
